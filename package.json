@@ -1,0 +1,26 @@
+{
+  "name": "bootcamp-terminal-tests",
+  "version": "1.0.0",
+  "description": "\"# -bootcamp-terminal-tests\"",
+  "main": "countAllFromTown.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammaar345/-bootcamp-terminal-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammaar345/-bootcamp-terminal-tests/issues"
+  },
+  "homepage": "https://github.com/ammaar345/-bootcamp-terminal-tests#readme",
+  "keywords": [],
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
