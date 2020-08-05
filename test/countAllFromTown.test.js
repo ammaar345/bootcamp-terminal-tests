@@ -1,5 +1,5 @@
 let assert=require("assert");
-let countAllFromTown=require("../countAllfromTown")
+let countAllFromTown=require("../countAllFromTown")
 describe("Counts all number plates matching the location given.", function() {
   
   
