@@ -1,3 +1,3 @@
-module.exports=function regCheck(plate,location){
+module.exports = function regCheck(plate, location) {
     return plate.endsWith(location)
-     }
+}

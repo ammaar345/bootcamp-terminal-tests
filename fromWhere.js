@@ -8,4 +8,4 @@ module.exports=function fromWhere (regNumber){
       if (regNumber==="CA"){
       return place="Cape Town"}
       else {return place="Some other place!"}
-    console.log(typeof regNumber)}
+  }
